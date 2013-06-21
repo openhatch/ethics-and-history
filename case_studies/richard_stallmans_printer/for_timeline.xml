@@ -1,0 +1,8 @@
+<!-- This document is in a format called XML, but you don't need to know XML to edit it. Just follow the instructions and put your
+title, date and summary where it says 'insert X' --!>
+
+<timeline>
+<title>Insert title here</title>
+<date>Insert date here in DD-MM-YYYY format</date>
+<summary>Insert your summary here.</summary>
+</timeline>
