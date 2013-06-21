@@ -1,4 +1,6 @@
 ethics-and-history
 ==================
 
-a repository for our 'History and Ethics of Free Software' activity
+Instructions:
+
+1)  <b>Choose a story and a group</b>
