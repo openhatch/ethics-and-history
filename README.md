@@ -14,6 +14,8 @@ Read through the materials we've provided about that story.  To access them:
 * CD into case_studies/<your story here>*
 * open list_of_sources in your favorite editor and begin reading*
 
+You do NOT need to read all of the resources, just enough to summarize what happened and begin exploring the issues raised.
+
 <b>3)  Summarize what you've learned</b>
 
 When you think you understand the story, work with the rest of your group to make a summary of what happened.  
